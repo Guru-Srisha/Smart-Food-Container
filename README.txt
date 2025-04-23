@@ -1,4 +1,4 @@
-# Smart Food Shipment Monitor
+# Smart Food Container
 
 A real-time IoT solution designed to monitor and control food parameters during long-distance shipments. This system helps avoid spoilage by enabling live tracking of temperature, humidity, gas levels, and more. Stakeholders can remotely control the temperature conditions—whether hot or cold—through an integrated IoT cloud dashboard.
 
