@@ -4,8 +4,8 @@ A real-time IoT solution designed to monitor and control food parameters during 
 
 ### Features
 
-- **Live Monitoring**: Track temperature, humidity, gas concentration, weight, and more during transit.
+- **Live Monitoring**: Track temperature, humidity, ammonia levels, weight and more during transit.
 - **Temperature Control**: Remotely adjust and maintain the shipment environment.
 - **IoT Cloud Integration**: View data and control settings in real time via Blynk IoT Cloud.
 - **NFC-Enabled Access**: Instantly access shipment data and controls with one tap.
-- **Spoilage Prevention**: Stay alerted and take action before perishable goods degrade.
+- **Spoilage Prevention**: Uses color sensors to detect the change in color to detect if the food is rotting, alerts stakeholders take action before perishable goods degrade.
